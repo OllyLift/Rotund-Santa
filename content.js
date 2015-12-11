@@ -7,7 +7,8 @@ var buzzWords = [
     {"key":"5.5.4","val":"digital messiah"},
     {"key":"AIP","val":"popularity contest"},
     {"key":"KPI","val":"worth to the company"},
-    {"key":"hours entry app","val":"root canel"}
+    {"key":"hours entry app","val":"root canal"},
+    {"key":"DITO","val":"colonoscopy"}
 ];
 for (var i = 0; i < elements.length; i++) {
     var element = elements[i];

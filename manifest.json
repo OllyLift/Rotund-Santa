@@ -1,0 +1,18 @@
+{
+"manifest_version": 2,
+    "name": "AbsurdTranslationDictionary",
+    "description": "Sometimes the internal buzz words are just to... bullshit",
+    "version": "0.2",
+    "content_scripts": [
+        {
+            "matches": [
+                "http://*/*",
+                "https://*/*"
+            ],
+            "js": [
+                "content.js"
+            ],
+            "run_at": "document_end"
+        }
+    ]
+}

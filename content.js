@@ -8,7 +8,11 @@ var buzzWords = [
     {"key":"AIP","val":"popularity contest"},
     {"key":"KPI","val":"worth to the company"},
     {"key":"hours entry app","val":"root canal"},
-    {"key":"DITO","val":"colonoscopy"}
+    {"key":"DITO","val":"colonoscopy"},
+    {"key":"allocation","val":"slave auction"},
+    {"key":"HBG","val":"huge bail grain"},
+    {"key":"EBO","val":"eggs broken open"},
+    {"key":"feedback","val":"holla back"}
 ];
 for (var i = 0; i < elements.length; i++) {
     var element = elements[i];

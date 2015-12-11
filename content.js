@@ -6,13 +6,16 @@ var buzzWords = [
     {"key":/R&D/gi, "val":"bird people"},
     {"key":/5.5.4/gi,"val":"digital messiah"},
     {"key":/AIP/gi,"val":"popularity contest"},
-    {"key":/KPI/gi,"val":"worth to the company"},
+    {"key":/KPI/gi,"val":"Key Performance Indicator"},
     {"key":/hours entry app/gi,"val":"root canal"},
     {"key":/DITO/gi,"val":"colonoscopy"},
     {"key":/allocation/gi,"val":"slave auction"},
-    {"key":/HBG/gi,"val":"huge bail grain"},
-    {"key":/EBO/gi,"val":"eggs broken open"},
-    {"key":/feedback/gi,"val":"holla back"}
+    {"key":/HBG/gi,"val":"Hours Billing Group"},
+    {"key":/Wendy Salas/gi,"val":"Wendingo"},
+    {"key":/feedback/gi,"val":"holla back"},
+    {"key":/Aaron James/gi,"val":"Stairway to Meatloaf"},
+    {"key":/Joshua Hiller/gi,"val":"Wixxerd"},
+    {"key":/Colin Hayes/gi,"val":"Seyah Niloc"}
 ];
 for (var i = 0; i < elements.length; i++) {
     var element = elements[i];
